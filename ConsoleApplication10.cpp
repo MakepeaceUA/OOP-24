@@ -2,10 +2,6 @@
 #include <string>
 using namespace std;
 
-
-#include<iostream>
-using namespace std;
-
 class Animal
 {
 protected:
